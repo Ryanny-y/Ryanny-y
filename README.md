@@ -1,9 +1,9 @@
 # Hi there, I'm Ryanny! 👋  
 
 ## 🚀 About Me  
-💻 Passionate about **Web Development** and **Software Engineering** </br>
+⚡ Passionate about **Web Development** and **Software Engineering** </br>
 🎓 Currently studying **Information Systems** at *Quezon City University* </br>
-🔨 Building Spring Boot Application with Relational Databases
+🔨 Building **Spring Boot** Application with **Relational Databases** </br>
 📚 Currently learning more advanced **Backend Development** concepts</br>
 🔍 Exploring **Databases, Authentication, and Cloud Deployment, Scalability, Microservices, and System Design**</br></br>
 
